@@ -1,4 +1,4 @@
-package nawabpratice;
+package Method;
 
 public class statimethodeg {
 	public static void showmsg(){
