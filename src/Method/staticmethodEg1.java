@@ -1,4 +1,4 @@
-package nawabpratice;
+package Method;
 
 public class staticmethodEg1 {
 
